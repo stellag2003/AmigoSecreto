@@ -14,6 +14,9 @@ function dica()
 
 }
 
+console.log(document.getElementById('amigo'));
+console.log(document.getElementById('resultadoErrado'));
+
 dica();
 
 function listarAmigos()
@@ -34,9 +37,11 @@ function sortearAmigo(){
     {
         let resultadoErrado = document.getElementById('resultadoErrado');
         resultadoErrado.innerHTML = "Nomes insuficientes, por favor insira mais nomes!" ;
-       
-        let btnAdd = document.querySelector('button-add').onmouseover;
-        resultadoErrado.innerHTML = "";
+        
+        document.getElementById('amigo').onmousedown = function(){
+
+            document.getElementById('resultadoErrado').innerHTML = "";
+        };
 
 
 
@@ -57,6 +62,7 @@ function limpaCampos()
 {
    NomeAmigo = document.querySelector('input');
    NomeAmigo.value = '';
+   //resultadoErrado.value = '';
 
 }
 
@@ -74,14 +80,10 @@ function adicionarAmigo() {
         let resultadoErrado = document.getElementById('resultadoErrado');
         resultadoErrado.innerHTML = "Por favor insira um nome válido!" ;
 
-        // Seleciona o botão corretamente usando a classe
-           let btnAdd = document.querySelector('.button-add');
+        document.getElementById('amigo').onmousedown = function(){
 
-// Adiciona o evento de mouseover ao botão
-        btnAdd.onmouseover = function() {
-    // Limpa o conteúdo do elemento com id 'resultadoErrado'
-    document.getElementById('resultadoErrado').innerHTML = "";
-};
+            document.getElementById('resultadoErrado').innerHTML = "";
+        };
 
         
         
