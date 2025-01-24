@@ -38,9 +38,8 @@ function sortearAmigo(){
         let resultadoErrado = document.getElementById('resultadoErrado');
         resultadoErrado.innerHTML = "Nomes insuficientes, por favor insira mais nomes!" ;
         
-        document.getElementById('amigo').onmousedown = function(){
-
-            document.getElementById('resultadoErrado').innerHTML = "";
+      document.getElementById('amigo').onmousedown = function(){
+        document.getElementById('resultadoErrado').innerHTML = "";
         };
 
 
@@ -62,7 +61,6 @@ function limpaCampos()
 {
    NomeAmigo = document.querySelector('input');
    NomeAmigo.value = '';
-   //resultadoErrado.value = '';
 
 }
 
@@ -80,9 +78,8 @@ function adicionarAmigo() {
         let resultadoErrado = document.getElementById('resultadoErrado');
         resultadoErrado.innerHTML = "Por favor insira um nome válido!" ;
 
-        document.getElementById('amigo').onmousedown = function(){
-
-            document.getElementById('resultadoErrado').innerHTML = "";
+       document.getElementById('amigo').onmousedown = function(){
+        document.getElementById('resultadoErrado').innerHTML = "";
         };
 
         
