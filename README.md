@@ -1,6 +1,5 @@
- Amigo Secreto
 
-Bem-vindo ao Amigo Secreto, um projeto interativo que facilita o sorteio entre amigos de forma simples e intuitiva!
+Bem-vindo(a) ao Amigo Secreto, um projeto interativo que facilita o sorteio entre amigos de forma simples e intuitiva!
 
  Funcionalidades Principais:
 
