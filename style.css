@@ -30,11 +30,11 @@
     text-align: center;
     position:fixed;
     z-index: 1000;
-    padding:30px; 
+    padding:25px;
     font-size: 22px; 
     border: 2px solid black; 
     width: 400px;
-    height: 285px;
+    height: 290px;
     border-radius: 30px;
   
 }
