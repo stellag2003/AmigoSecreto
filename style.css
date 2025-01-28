@@ -1,9 +1,9 @@
 :root {
-    --color-primary: #4B69FD;
+    --color-primary: #B1E627;
     --color-secondary: #FFF9EB;
     --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
-    --color-button-hover: #e55720;
+    --color-button: #DC5AE0;
+    --color-button-hover: #e784eb;
     --color-text: #444444;
     --color-white: #FFFFFF;
 }
@@ -15,8 +15,16 @@
     box-sizing: border-box;
 }
 
+#imgInicio{
+
+    max-width: 570px;
+    height: 500px;
+    display: block; 
+}
+    
+
 #modal{
-    background-color:#a7b4f6;
+    background-color:#37dff1;
     color:aliceblue;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
@@ -32,7 +40,7 @@
 }
 
 #openModalBtn{
-    background-color:#ee6837;
+    background-color:#DC5AE0;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     justify-content: center;
@@ -46,9 +54,10 @@
 body {
     height: 100vh;
     background-color: var(--color-primary);
-    display: flex;
+    display: block;
     justify-content: center;
     align-items: center;
+    
 }
 
 .main-content {
@@ -60,11 +69,12 @@ body {
 
 /* Banner */
 .header-banner {
-    flex: 40%;
+    
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 40px 0 0;
+    height: 330px;
+   
 }
 
 /* Seção de entrada */
@@ -78,6 +88,7 @@ body {
     align-items: center;
     padding: 20px;
     width: 100%;
+    
 }
 
 /* Títulos */
@@ -144,20 +155,20 @@ button {
 }
 
 .button-add {
-    background-color:#6e82e1;
-    color: #FFF9EB;;
+    background-color:#37dff1;
+    color: black;
     border-radius: 0 25px 25px 0;
 }
 
 .button-add:hover {
-    background-color:#a7b4f6  ;
-    color:#FFF9EB;
+    background-color:#45c9d8  ;
+    
 }
 
 /* Listas */
 ul {
     list-style-type: none;
-    color:#6e82e1;
+    color:#e210e9;
     font-family: "Merriweather", sans-serif;
     font-weight: bold;
     font-size: 20px;
@@ -166,7 +177,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: #45c9d8;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
