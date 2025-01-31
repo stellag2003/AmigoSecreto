@@ -39,3 +39,7 @@
 - Adicionar efeitos visuais ao sorteio.
 - Criar uma versão mobile-friendly.
 
+<h3>Acesso ao projeto:</h3>
+https://stellag2003.github.io/AmigoSecreto/
+
+
