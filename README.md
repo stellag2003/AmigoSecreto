@@ -1,6 +1,6 @@
 
 <h1>Bem-vindo(a) ao Amigo Secreto, um projeto interativo que facilita o sorteio entre amigos de forma simples e intuitiva!</h1>
-![Group-cuate](https://github.com/user-attachments/assets/8d91474c-5230-46eb-91a1-136173b10db0)
+[Group-cuate](https://github.com/user-attachments/assets/8d91474c-5230-46eb-91a1-136173b10db0)
 
 
  Funcionalidades Principais:
