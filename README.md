@@ -1,5 +1,7 @@
 
 <h1>Bem-vindo(a) ao Amigo Secreto, um projeto interativo que facilita o sorteio entre amigos de forma simples e intuitiva!</h1>
+![Group-cuate](https://github.com/user-attachments/assets/8d91474c-5230-46eb-91a1-136173b10db0)
+
 
  Funcionalidades Principais:
 
@@ -9,7 +11,7 @@
      > "Por favor, insira um nome válido".
 
 2. Sorteio Aleatório
-   - O programa realiza o sorteio entre os nomes inseridos.![Group-cuate](https://github.com/user-attachments/assets/ba493d79-d97a-49d2-8f94-889598318f6b)
+   - O programa realiza o sorteio entre os nomes inseridos.
 
    - Caso você tente sortear com apenas um nome na lista, será exibida a mensagem:
      > "Nomes insuficientes. Por favor, insira mais nomes".
