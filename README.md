@@ -1,6 +1,4 @@
-Claro, Stella! Vou ajustar o README para centralizar e diminuir o ícone dos amigos. Aqui está a versão atualizada:
 
----
 
 #  Bem-vindo(a) ao Amigo Secreto! 🎉
 
