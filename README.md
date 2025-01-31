@@ -63,6 +63,6 @@ Um projeto interativo que facilita o sorteio entre amigos de forma simples e int
 
 ---
 
-## Um vídeo do site
+## Vídeo do site
 https://github.com/user-attachments/assets/3322bdd4-09d0-46e6-8286-11e4353f4588
 
