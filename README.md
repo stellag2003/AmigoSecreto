@@ -36,7 +36,7 @@ Um projeto interativo que facilita o sorteio entre amigos de forma simples e int
 1. Digite um nome no campo de entrada e clique em "Adicionar" para adicioná-lo à lista. 
 2. Repita o processo até que todos os nomes estejam inseridos. 🔄
 3. Clique no botão "Sortear" para selecionar aleatoriamente um dos nomes da lista. 
-4. Se precisar de ajuda, passe o mouse sobre o ícone do bot de instruções para entender como o sistema funciona. ❓
+4. Se precisar de ajuda, passe o mouse sobre o ícone do bot de instruções para entender como o sistema funciona.❓
 
 ---
 
