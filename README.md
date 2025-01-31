@@ -2,7 +2,7 @@ Claro, Stella! Vou ajustar o README para centralizar e diminuir o ícone dos ami
 
 ---
 
-# 🌟 Bem-vindo(a) ao Amigo Secreto! 🎉
+#  Bem-vindo(a) ao Amigo Secreto! 🎉
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/04b0bfa5-9a0d-49db-a2c7-f1933e00498c" alt="Ícone do meu site, 3 amigos com roupas coloridas" width="150">
@@ -33,9 +33,9 @@ Um projeto interativo que facilita o sorteio entre amigos de forma simples e int
 
 ## 📌 Como Usar o Site
 
-1. Digite um nome no campo de entrada e clique em "Adicionar" para adicioná-lo à lista. ➕
+1. Digite um nome no campo de entrada e clique em "Adicionar" para adicioná-lo à lista. 
 2. Repita o processo até que todos os nomes estejam inseridos. 🔄
-3. Clique no botão "Sortear" para selecionar aleatoriamente um dos nomes da lista. 🎉
+3. Clique no botão "Sortear" para selecionar aleatoriamente um dos nomes da lista. 
 4. Se precisar de ajuda, passe o mouse sobre o ícone do bot de instruções para entender como o sistema funciona. ❓
 
 ---
@@ -62,13 +62,3 @@ Um projeto interativo que facilita o sorteio entre amigos de forma simples e int
 👉 [Clique aqui para acessar o Amigo Secreto!](https://stellag2003.github.io/AmigoSecreto/)
 
 ---
-
-### Badges Adicionais (opcional):
-
-- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-- ![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-blue)
-- ![License](https://img.shields.io/badge/License-MIT-green)
-
----
-
-Agora o ícone está centralizado e com um tamanho menor (150px de largura). Se precisar ajustar mais alguma coisa, é só me avisar! 😊✨
