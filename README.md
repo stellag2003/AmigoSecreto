@@ -1,7 +1,7 @@
 
 <h1>Bem-vindo(a) ao Amigo Secreto, um projeto interativo que facilita o sorteio entre amigos de forma simples e intuitiva!</h1>
 
-![amigos](https://github.com/user-attachments/assets/04b0bfa5-9a0d-49db-a2c7-f1933e00498c)
+![Ícone do meu site, 3 amigos com roupas coloridas](https://github.com/user-attachments/assets/04b0bfa5-9a0d-49db-a2c7-f1933e00498c)
 
 
  Funcionalidades Principais:
